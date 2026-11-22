@@ -1,0 +1,13 @@
+# Sensitive files
+*.ovpn
+.env
+.env.*
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
