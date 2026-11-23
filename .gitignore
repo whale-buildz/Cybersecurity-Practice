@@ -11,3 +11,4 @@ id_ed25519
 *.log
 *.tmp
 .DS_Store
+/05-Ethical-Hacking-Labs/HTB-Fawn/flag.txt
